@@ -2,7 +2,7 @@
 title:          "SynFlowNet: Design of Diverse and Novel Molecules with Synthesis Constraints"
 date:           2024-05-01 00:01:00 +0800
 selected:       true
-pub:            "ICLR 2025"
+pub:            "ICLR"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-custom badge-success">Spotlight</span>'

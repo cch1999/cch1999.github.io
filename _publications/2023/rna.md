@@ -2,11 +2,11 @@
 title:   Multi-State RNA Design with Geometric Multi-Graph Neural Networks       
 date:           2023-07-01 00:01:00 +0800
 selected:       false
-pub:            "CompBio Workshop @ ICML"
+pub:            "ICLR"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-custom badge-success">Spotlight</span>'
-pub_date:       "2024"
+pub_date:       "2025"
 
 abstract: >-
    This work introduces gRNAde, a geometric RNA design pipeline operating on 3D RNA backbones to design sequences that explicitly account for structure and dynamics. Under the hood, gRNAde is a multi-state Graph Neural Network that generates candidate RNA sequences conditioned on one or more 3D backbone structures where the identities of the bases are unknown. 
