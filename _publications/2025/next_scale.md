@@ -12,9 +12,9 @@ abstract: >-
  Here, we propose MAG, a novel diffusion-free graph generation framework based on next-scale prediction. By leveraging a hierarchy of latent representations, the model proogressively generates scales of the entire graph without the need for explicit node ordering.
 cover:          assets/images/covers/next_scale.png
 authors:
-  - Samuel Belkadi*
-  - Steve Hong*
-  - Marian Chen*
+  - Samuel Belkadi
+  - Steve Hong
+  - Marian Chen
   - Miruna Cretu
   - Charles Harris
   - Pietro Liò
