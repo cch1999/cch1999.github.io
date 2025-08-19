@@ -38,6 +38,7 @@ plugins:
 timezone: Europe/London
 
 collections:
+  - news
   - publications
 
 jekyll_tidy:
