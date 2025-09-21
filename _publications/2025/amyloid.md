@@ -1,6 +1,6 @@
 ---
 title:          "Structure-based Generation of a Secondary Nucleation Inhibitor in α-Synuclein Aggregation Using a Conditional Diffusion Model"
-date:           2025-08-017 00:01:00 +0800
+date:           2025-08-17 00:01:00 +0800
 selected:       False
 pub:            "Under review"
 # pub_pre:        "Submitted to "
