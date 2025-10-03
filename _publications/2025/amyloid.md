@@ -9,7 +9,7 @@ pub:            "Under review"
 pub_date:       "2025"
 
 abstract: >-
-  A condition diffusio model is used to discover a potent inhibitor of secondary nucleation in α-synuclein aggregation
+  A conditional diffusion model is used to discover a potent inhibitor of secondary nucleation in α-synuclein aggregation.
 cover:          assets/images/covers/amyloid.png
 authors:
   - Hao Zhang
