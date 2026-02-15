@@ -21,9 +21,9 @@ cv_link: assets/files/CharlesHarrisCV.pdf
 
 short_bio: >-
   I’m finishing a PhD at Cambridge, where I develop generative and geometric deep-learning methods for structure-based drug discovery in the labs of Pietro Lio and Sir Tom Blundell.
-
+  <br><br>
   Until recently, I served as Technical Lead in the UK Government’s Sovereign AI Unit. Working closely with the Prime Minister’s AI Adviser, Matt Clifford, I helped shape early thinking on AI for Science — particularly around the idea that targeted, high-quality datasets can be a practical lever for unlocking “AlphaFold-scale” advances.
-  
+  <br><br>
   In that role, I led the £8m seed investment to establish
   <a href="https://openbind.uk/" target="_blank" rel="noopener noreferrer">OpenBind</a>,
   a consortium aimed at building large-scale protein–ligand datasets for AI-driven drug discovery, and supported a £5m DSIT expansion of the
