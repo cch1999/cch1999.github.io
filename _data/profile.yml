@@ -20,7 +20,11 @@ cv_link: assets/files/CharlesHarrisCV.pdf
 
 
 short_bio: >-
-  I’m finishing a PhD at Cambridge, where I develop generative and geometric deep-learning methods for structure-based drug discovery in the labs of Pietro Lio and Sir Tom Blundell. Alongside my research, I work with the UK Government’s new Sovereign AI Unit, focusing on policy and new datasets that support AI-driven science.
+  I’m finishing a PhD at Cambridge, where I develop generative and geometric deep-learning methods for structure-based drug discovery in the labs of Pietro Lio and Sir Tom Blundell.
+
+  Until recently, I served as Technical Lead in the UK Government’s Sovereign AI Unit. Working closely with the Prime Minister’s AI Adviser, Matt Clifford, I helped shape early thinking on AI for Science — particularly around the idea that targeted, high-quality datasets can be a practical lever for unlocking “AlphaFold-scale” advances.
+  
+  In that role, I led the £8m seed investment to establish OpenBind, a consortium aimed at building large-scale protein–ligand datasets for AI-driven drug discovery, and led a £5m DSIT expansion of the Encode AI for Science Fellowship. I also helped design the UK’s largest GPU compute allocation to date, influencing how millions of GPU-hours were distributed, and helped write the UK’s AI for Science strategy.
 
 show_portrait: true
 portrait_url: assets/images/photos/portrait.png
@@ -45,7 +49,7 @@ experience:
 - name: UK Government
   logo: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEULDAwAAAC8vLw2Nja4uLj29vb///8DBQV5enqysrIPEBDj4+OkpKQfHx89PT3d3d03NzfMzMzy8vLU1NQkJSVUVFSYmJhsbGw/Pz9nZ2crKyuDhITFxcXq6uqZmZmLi4u+AZROAAAAy0lEQVR4AdXQRWLEMBBEUf9pqWVmxvufMrAxBXaBKaP0xN5vBL6xx4MvTYwRvkKraj9HB34Q+OA+oTCKsZY4Cu/sEkk1E1WJVCS5KlbJHUWBJ56WXIygAkdd4yALOCmN4b2M6vsbTHMolfq8lTEGjwZfixPmLZ2G9MPQE2pHK2ccaHR0lCVu1IYhPWFbxZ0te80yTUvbxVV7XlEZt1VXx9MU113Vxpe90BqCuZZlkXoOMO0ZHXrJ9QCZ52DdJt+ftjWYZ7xLuMR7xrwCx3EJp4l9MnUAAAAASUVORK5CYII=
   position: Technical Lead (Opportunties), UK Sovereign AI Unit
-  date: Mar. 2025 - Present
+  date: Mar. 2025 - Dec. 2025
 
 - name: IQ Capital
   logo: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAASFBMVEVHcEzYU1jSO0DTPEHRMznPIyrOICfQLTPOISjOHybPISjOICfOICfOICfPKC7OHybOHybPJSzYUlfPJCvecHTQLTPQMzj77O2+e5/pAAAAGHRSTlMADSgaSbrKfdjiXfH/k6v9mFRsOYaN1RHLPvegAAAA00lEQVR4AbWSRQLDIBREcQkUrdz/pmXivsskwPAfDuQ5UdbEB89EE/wkIZVSGo5qZaw1Si+4c977VzM8RO/xx8DXMAImkEGJbiHKZpxDX5d3MKCLKsUMXTeQqRZzXaujq2IbKGyDpsUohrd1A1F4hQDGjfkCSkzaXcBwBxXgdthsASktb9Sd2MBq+kVSGdHR1A2kWIfTXIJFyTeQfCJ6fEwPNdnCahF2/aiHsyXaz4ofurnPLZ1WK+T3+x3myAEvIVhvp8fw6zX5Wtkvq46SSzHyoP4EkBF2XFkkhQAAAABJRU5ErkJggg==
