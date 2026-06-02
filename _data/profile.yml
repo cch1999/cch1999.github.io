@@ -20,7 +20,7 @@ cv_link: assets/files/CharlesHarrisCV.pdf
 
 
 short_bio: >-
-  I’m finishing a PhD at Cambridge, where I develop generative and geometric deep-learning methods for structure-based drug discovery in the labs of Pietro Lio and Sir Tom Blundell.
+  I’m finishing a PhD at Cambridge, where I develop generative and geometric deep-learning methods for structure-based drug discovery in the labs of Pietro Lio and Sir Tom Blundell. I recently joined Boltz to continue research on AI in Drug Discovery.
   <br><br>
   Until recently, I served as Technical Lead in the UK Government’s Sovereign AI Unit. Working closely with the Prime Minister’s AI Adviser, Matt Clifford, I helped shape early thinking on AI for Science — particularly around the idea that targeted, high-quality datasets can be a practical lever for unlocking “AlphaFold-scale” advances.
   <br><br>
@@ -51,6 +51,13 @@ education:
   logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGBFG53_Wui9T7JIvKHqJL2MMmgi37nEVOad6ByDVi6FmJAzTDXwP2__BluOLbdKC9Uak&usqp=CAU
   position: BSc in Biochemisty
   date: Oct. 2017 - Jun. 2020
+
+
+experience:
+- name: Boltz Bio
+  logo: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEXG5cbJ6cnN7c3J6Mm+3L6207ZNWU1TYFN7jnuCloIAAABoeGibtJsjKCPT9NNGUUYuNS6lv6UyOjKMoowrMisXGhevyq+UrJQ1PTWHnIdtfm1ASkBLV0sQEhCet5672LsZ0AgFAAAAo0lEQVR4AcXQRQLEIBAEwKGH7Mbd9f+vjDvc01EonL6LAMBEgGQoZvz+P5Nh2bbt8BvdudbzTXtJAA2GbG+JWMU42tESGjR2TFjF1M82lKTDfLUCOoSQZmiXPliHRH617CWCDpFss1ZQkQ17T84Koj7QgYrBgY0G/we2KorKVk/wQBL7GXV0C/cbskwX8wbx0DzP5fJFX9fu64iIea8QgKAPMwEcRgvdxDbxbwAAAABJRU5ErkJggg==
+  position: Member of Technical Staff
+  date: May. 2026 - Present
 
 experience:
 - name: UK Government
