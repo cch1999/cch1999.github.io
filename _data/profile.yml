@@ -38,21 +38,6 @@ portrait_url: assets/images/photos/portrait.png
 portrait_caption: >-
   Me.
 
-education:
-- name: University of Cambridge 
-  logo: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAABVlBMVEX////3/f2bSUuyZGi4bXOsbHi6dXm2cnm6cXq+mpvO0dHLy8u7kJGvXWaVTE5/AAC8OhugaQjIuwCkORKfgwCYkwCFTADgjpLr6+vedXmULwC8IRu8sQCogACpWw6ShQCFFh17LACijBOkdxinnBCROhyHLBvAABvjlpfAwMCmmgCPQhuXgBKSXxiWBBywLDR1AACvkBaxTiHHwhGOACCMbwDx8fHf39+pACWuqBCEOBmGRC6eAADbzhSYSQL39/ebPw+/kRp2UwuUPjOcRh2RVRjNxhF3ABzHx8e9phSJLTW0WiC+mRjBACrffIG8aSCIiQuwJyWisAmco6OhKiGutgB7KzOVAAC+AAC6AACsAACzAADOzs76+vqhlGijmICie36wSQDSAB6xIRTzzc7o09ZYXw2eoo6uLACqQ0nGhh6gYhrFl52DRheSIhKLWwC+r6+kqqmiHz0PAAAB4klEQVR4AY3SVXviQBgF4K9erGgMJ0kXZxcdUsPdPVJ3l/9/UZ2s27k7z5uMwz8yN7+wuLS8srqi0ep0Wv3y8tLq8qJhDavRZLZYbQRJ0QA0Y3c4XW4P4cXoYzl+nf3kDwQBgkwoTESi5thnjF/iiaQ3xaUpbSaDmHhWiGQ34psYt1gXkdz27FCAcsDkCwRv2S6WVCxXqjW+aqWgjoDxRxtRTig0VWy11zt8iqUQAOqaWny2F+a+DtvnBsMWm6ZGkBt1E8MsS4wnU4wzUZRkURGpt8JIoqgoohTDuPu2P9jLBfcPDvZ1GYC3vqtiHSAINH145PAfabR7rwXqXzGIcnVEI/0xHz/WaDMoSNPBrwhBBCOAwxNRnGlgbwRaHaioOf3I2TlNn5/holG3Iik70pEiBi5ycMHI4o6iXErq2cYi8e20mSA/js9WrLY5rn+FcV4YC9l04YQCHXrFGDGOth2LGJddLj5yHe6/Hx/juuE91+HQLUadfFOIe5wngffjs95Y2Dg/Q4Bz1RIGbf6IAnoPmJ3CneWONYCazL31hk+1P+Z8qAx4U3MOvumVvUxwVIbOZbrHrCAbsOE8Kjsngff79Ltnj788UL1MPUHuiZE1+Lcf+fHtz8dfCU8dDObgf/MCFypgmjiBHaIAAAAASUVORK5CYII=
-  position: PhD in Computer Science
-  date: Oct. 2021 - Present
-- name: Imperial College London
-  logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGBFG53_Wui9T7JIvKHqJL2MMmgi37nEVOad6ByDVi6FmJAzTDXwP2__BluOLbdKC9Uak&usqp=CAU
-  position: MSc in Bioinformatics and Theoretical Systems Biology
-  date: Oct. 2020 - Sep. 2021
-- name: Imperial College London
-  logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGBFG53_Wui9T7JIvKHqJL2MMmgi37nEVOad6ByDVi6FmJAzTDXwP2__BluOLbdKC9Uak&usqp=CAU
-  position: BSc in Biochemisty
-  date: Oct. 2017 - Jun. 2020
-
-
 experience:
 - name: Bolt
   logo: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEXG5cbJ6cnN7c3J6Mm+3L6207ZNWU1TYFN7jnuCloIAAABoeGibtJsjKCPT9NNGUUYuNS6lv6UyOjKMoowrMisXGhevyq+UrJQ1PTWHnIdtfm1ASkBLV0sQEhCet5672LsZ0AgFAAAAo0lEQVR4AcXQRQLEIBAEwKGH7Mbd9f+vjDvc01EonL6LAMBEgGQoZvz+P5Nh2bbt8BvdudbzTXtJAA2GbG+JWMU42tESGjR2TFjF1M82lKTDfLUCOoSQZmiXPliHRH617CWCDpFss1ZQkQ17T84Koj7QgYrBgY0G/we2KorKVk/wQBL7GXV0C/cbskwX8wbx0DzP5fJFX9fu64iIea8QgKAPMwEcRgvdxDbxbwAAAABJRU5ErkJggg==
@@ -73,6 +58,21 @@ experience:
   logo: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA0ElEQVR4AWMAgf/77Rr+77f5jxMfsPkHpO8A6ZX/jziqM6AChAHEYdsf/w/Y25JlAMJFttfwGGB7ANOFDjJA8T0ohhx1E8NjACYAOtsX1SUOCqS4gOX/AbuJSAa8+P+/gQmXAR9AhqDhNygxctAunrxAPGD7HOQVCqPR5sb/wzZq+Ay4APSzAwo+aBcGdPp5JJfcAoULSbEANEQVzSU+pBlw2EYQ1QC7EuKj8aSzMNDZs1EMOGgXjWEASfnhqJM8BQbYVZATjS/A+eGQrTeyXgA2BAhhJVLYcwAAAABJRU5ErkJggg==
   position: Machine Learning Research Intern
   date: July 2022 - Oct. 2022
+
+
+education:
+- name: University of Cambridge 
+  logo: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAABVlBMVEX////3/f2bSUuyZGi4bXOsbHi6dXm2cnm6cXq+mpvO0dHLy8u7kJGvXWaVTE5/AAC8OhugaQjIuwCkORKfgwCYkwCFTADgjpLr6+vedXmULwC8IRu8sQCogACpWw6ShQCFFh17LACijBOkdxinnBCROhyHLBvAABvjlpfAwMCmmgCPQhuXgBKSXxiWBBywLDR1AACvkBaxTiHHwhGOACCMbwDx8fHf39+pACWuqBCEOBmGRC6eAADbzhSYSQL39/ebPw+/kRp2UwuUPjOcRh2RVRjNxhF3ABzHx8e9phSJLTW0WiC+mRjBACrffIG8aSCIiQuwJyWisAmco6OhKiGutgB7KzOVAAC+AAC6AACsAACzAADOzs76+vqhlGijmICie36wSQDSAB6xIRTzzc7o09ZYXw2eoo6uLACqQ0nGhh6gYhrFl52DRheSIhKLWwC+r6+kqqmiHz0PAAAB4klEQVR4AY3SVXviQBgF4K9erGgMJ0kXZxcdUsPdPVJ3l/9/UZ2s27k7z5uMwz8yN7+wuLS8srqi0ep0Wv3y8tLq8qJhDavRZLZYbQRJ0QA0Y3c4XW4P4cXoYzl+nf3kDwQBgkwoTESi5thnjF/iiaQ3xaUpbSaDmHhWiGQ34psYt1gXkdz27FCAcsDkCwRv2S6WVCxXqjW+aqWgjoDxRxtRTig0VWy11zt8iqUQAOqaWny2F+a+DtvnBsMWm6ZGkBt1E8MsS4wnU4wzUZRkURGpt8JIoqgoohTDuPu2P9jLBfcPDvZ1GYC3vqtiHSAINH145PAfabR7rwXqXzGIcnVEI/0xHz/WaDMoSNPBrwhBBCOAwxNRnGlgbwRaHaioOf3I2TlNn5/holG3Iik70pEiBi5ycMHI4o6iXErq2cYi8e20mSA/js9WrLY5rn+FcV4YC9l04YQCHXrFGDGOth2LGJddLj5yHe6/Hx/juuE91+HQLUadfFOIe5wngffjs95Y2Dg/Q4Bz1RIGbf6IAnoPmJ3CneWONYCazL31hk+1P+Z8qAx4U3MOvumVvUxwVIbOZbrHrCAbsOE8Kjsngff79Ltnj788UL1MPUHuiZE1+Lcf+fHtz8dfCU8dDObgf/MCFypgmjiBHaIAAAAASUVORK5CYII=
+  position: PhD in Computer Science
+  date: Oct. 2021 - Present
+- name: Imperial College London
+  logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGBFG53_Wui9T7JIvKHqJL2MMmgi37nEVOad6ByDVi6FmJAzTDXwP2__BluOLbdKC9Uak&usqp=CAU
+  position: MSc in Bioinformatics and Theoretical Systems Biology
+  date: Oct. 2020 - Sep. 2021
+- name: Imperial College London
+  logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGBFG53_Wui9T7JIvKHqJL2MMmgi37nEVOad6ByDVi6FmJAzTDXwP2__BluOLbdKC9Uak&usqp=CAU
+  position: BSc in Biochemisty
+  date: Oct. 2017 - Jun. 2020
 
 
 awards:
