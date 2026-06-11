@@ -3,7 +3,7 @@ secondary_name: "(Charles)"
 navbar_name: "Charlie Harris"
 
 positions:
-  - '<span class="no-break"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAABVlBMVEX////3/f2bSUuyZGi4bXOsbHi6dXm2cnm6cXq+mpvO0dHLy8u7kJGvXWaVTE5/AAC8OhugaQjIuwCkORKfgwCYkwCFTADgjpLr6+vedXmULwC8IRu8sQCogACpWw6ShQCFFh17LACijBOkdxinnBCROhyHLBvAABvjlpfAwMCmmgCPQhuXgBKSXxiWBBywLDR1AACvkBaxTiHHwhGOACCMbwDx8fHf39+pACWuqBCEOBmGRC6eAADbzhSYSQL39/ebPw+/kRp2UwuUPjOcRh2RVRjNxhF3ABzHx8e9phSJLTW0WiC+mRjBACrffIG8aSCIiQuwJyWisAmco6OhKiGutgB7KzOVAAC+AAC6AACsAACzAADOzs76+vqhlGijmICie36wSQDSAB6xIRTzzc7o09ZYXw2eoo6uLACqQ0nGhh6gYhrFl52DRheSIhKLWwC+r6+kqqmiHz0PAAAB4klEQVR4AY3SVXviQBgF4K9erGgMJ0kXZxcdUsPdPVJ3l/9/UZ2s27k7z5uMwz8yN7+wuLS8srqi0ep0Wv3y8tLq8qJhDavRZLZYbQRJ0QA0Y3c4XW4P4cXoYzl+nf3kDwQBgkwoTESi5thnjF/iiaQ3xaUpbSaDmHhWiGQ34psYt1gXkdz27FCAcsDkCwRv2S6WVCxXqjW+aqWgjoDxRxtRTig0VWy11zt8iqUQAOqaWny2F+a+DtvnBsMWm6ZGkBt1E8MsS4wnU4wzUZRkURGpt8JIoqgoohTDuPu2P9jLBfcPDvZ1GYC3vqtiHSAINH145PAfabR7rwXqXzGIcnVEI/0xHz/WaDMoSNPBrwhBBCOAwxNRnGlgbwRaHaioOf3I2TlNn5/holG3Iik70pEiBi5ycMHI4o6iXErq2cYi8e20mSA/js9WrLY5rn+FcV4YC9l04YQCHXrFGDGOth2LGJddLj5yHe6/Hx/juuE91+HQLUadfFOIe5wngffjs95Y2Dg/Q4Bz1RIGbf6IAnoPmJ3CneWONYCazL31hk+1P+Z8qAx4U3MOvumVvUxwVIbOZbrHrCAbsOE8Kjsngff79Ltnj788UL1MPUHuiZE1+Lcf+fHtz8dfCU8dDObgf/MCFypgmjiBHaIAAAAASUVORK5CYII=" alt="University of Cambridge" class="inline-badge"/></span> PhD Student @ University of Cambridge'
+  - '<span class="no-break"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEXG5cbJ6cnN7c3J6Mm+3L6207ZNWU1TYFN7jnuCloIAAABoeGibtJsjKCPT9NNGUUYuNS6lv6UyOjKMoowrMisXGhevyq+UrJQ1PTWHnIdtfm1ASkBLV0sQEhCet5672LsZ0AgFAAAAo0lEQVR4AcXQRQLEIBAEwKGH7Mbd9f+vjDvc01EonL6LAMBEgGQoZvz+P5Nh2bbt8BvdudbzTXtJAA2GbG+JWMU42tESGjR2TFjF1M82lKTDfLUCOoSQZmiXPliHRH617CWCDpFss1ZQkQ17T84Koj7QgYrBgY0G/we2KorKVk/wQBL7GXV0C/cbskwX8wbx0DzP5fJFX9fu64iIea8QgKAPMwEcRgvdxDbxbwAAAABJRU5ErkJggg==" alt="Boltz" class="inline-badge"/></span> Member of the Technical Staff @ Boltz'
 
 email: "cch57@cam.ac.uk"
 gscholar: bOAEkIgAAAAJ&hl
@@ -54,9 +54,9 @@ education:
 
 
 experience:
-- name: Boltz Bio
+- name: Bolt
   logo: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAYFBMVEXG5cbJ6cnN7c3J6Mm+3L6207ZNWU1TYFN7jnuCloIAAABoeGibtJsjKCPT9NNGUUYuNS6lv6UyOjKMoowrMisXGhevyq+UrJQ1PTWHnIdtfm1ASkBLV0sQEhCet5672LsZ0AgFAAAAo0lEQVR4AcXQRQLEIBAEwKGH7Mbd9f+vjDvc01EonL6LAMBEgGQoZvz+P5Nh2bbt8BvdudbzTXtJAA2GbG+JWMU42tESGjR2TFjF1M82lKTDfLUCOoSQZmiXPliHRH617CWCDpFss1ZQkQ17T84Koj7QgYrBgY0G/we2KorKVk/wQBL7GXV0C/cbskwX8wbx0DzP5fJFX9fu64iIea8QgKAPMwEcRgvdxDbxbwAAAABJRU5ErkJggg==
-  position: Member of Technical Staff
+  position: Member of the Technical Staff
   date: May. 2026 - Present
 
 - name: UK Government
